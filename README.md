@@ -25,3 +25,5 @@ Repository - https://github.com/superfishal/workday-scheduler
 Deployed Application - https://superfishal.github.io/workday-scheduler/
 
 # Deployed Application Screenshots
+
+![Screen Shot 2022-03-10 at 12 25 35](https://user-images.githubusercontent.com/97133716/157748647-851ac13a-d617-4fff-b5df-2308492d39b0.png)
